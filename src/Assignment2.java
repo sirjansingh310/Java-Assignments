@@ -18,5 +18,5 @@ public class Assignment2 {
 
     }
 }
-// Time complexity : O(n) 
+// Time complexity : O(n) (n is length of input string)
 // Space complexity: O(1) (array size is fixed to 26)
