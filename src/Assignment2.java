@@ -18,3 +18,5 @@ public class Assignment2 {
 
     }
 }
+// Time complexity : O(n) 
+// Space complexity: O(1) (array size is fixed to 26)
