@@ -22,7 +22,20 @@ public class Assignment1 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter regex ");
         String regex = sc.nextLine();
+        String choice;
         File file = new File(System.getProperty("user.home"));
-        findFiles(regex,file);
+        do{
+            findFiles(regex,file);
+            System.out.println("do you want to enter another regex [yes/no]");
+            choice = sc.nextLine();
+            if(choice.equalsIgnoreCase("yes"))
+            {
+                System.out.println("Enter regex");
+                regex = sc.nextLine();
+            }
+            else
+                break;
+        }while(true);
+
     }
 }
