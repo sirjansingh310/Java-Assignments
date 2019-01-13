@@ -13,6 +13,7 @@ public class Assignment2 {
             if(i>0)
                 continue;
             allAlpabets = false;
+            break;
         }
         System.out.println(allAlpabets);
 
