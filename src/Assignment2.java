@@ -13,8 +13,11 @@ public class Assignment2 {
             if(i>0)
                 continue;
             allAlpabets = false;
+            break;
         }
         System.out.println(allAlpabets); // print true if all alphabets are present, else print false.
 
     }
 }
+// Time complexity : O(n) (n is length of input string)
+// Space complexity: O(1) (array size is fixed to 26)
