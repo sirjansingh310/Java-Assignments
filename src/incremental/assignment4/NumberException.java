@@ -1,6 +1,6 @@
 package incremental.assignment4;
 
-public abstract class NumberException extends Exception{
+public class NumberException extends Exception{
 
     public String exceptionType;
 
