@@ -3,6 +3,11 @@ package incremental.assignment4;
 public class FirstException extends NumberException{
 
     FirstException(){
-        super("first");
+        setExceptionType();
+    }
+
+    @Override
+    public void setExceptionType() {
+        exceptionType = "first";
     }
 }
