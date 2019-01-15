@@ -2,7 +2,7 @@ package incremental.assignment4;
 
 public class NumberException extends Exception{
 
-    public String exceptionType;
+    private String exceptionType;
 
     NumberException(String exceptionType){
         this.exceptionType = exceptionType;
