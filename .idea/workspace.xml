@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d534023f-f4d0-46ed-bff0-09777050a4a6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task1/Gerbil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task1/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task1/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task1/Rodent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task2/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task2/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task2/Tricycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task2/Unicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task3/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task3/DerivedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task3/InterfaceFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task3/InterfaceOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task3/InterfaceThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task3/InterfaceTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task4/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task4/BicycleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task4/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task4/Tricycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task4/TricycleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task4/Unicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task4/UnicycleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task5/OuterClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incremental/assignment3/task5/OuterClassTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Assignments/incremental/assignment6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Assignments/incremental/assignment6/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/incremental/assignment6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/incremental/assignment6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cycle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/incremental/assignment3/task4/Cycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Bicycle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/incremental/assignment3/task4/Bicycle.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OuterClassTwo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OuterClassTwo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/incremental/assignment3/task5/OuterClassTwo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -141,6 +103,18 @@
               <folding>
                 <element signature="e#732#733#0" expanded="true" />
                 <element signature="e#763#764#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assignment4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Assignment4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/incremental/assignment1/sirjan/assignment/data/TaskA.java" />
         <option value="$PROJECT_DIR$/src/incremental/assignment1/sirjan/assignment/data/Student.java" />
         <option value="$PROJECT_DIR$/src/incremental/assignment1/sirjan/assignment/singleton/User.java" />
@@ -240,6 +213,7 @@
         <option value="$PROJECT_DIR$/src/incremental/assignment3/task4/Main.java" />
         <option value="$PROJECT_DIR$/src/incremental/assignment3/task5/OuterClassOne.java" />
         <option value="$PROJECT_DIR$/src/incremental/assignment3/task5/OuterClassTwo.java" />
+        <option value="$PROJECT_DIR$/src/Assignment4.java" />
       </list>
     </option>
   </component>
@@ -324,17 +298,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="incremental.assignment6.Main" />
+  <component name="RunManager" selected="Application.Assignment4">
+    <configuration name="Assignment4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment4" />
       <module name="Java Assignments" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="incremental.assignment6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="incremental.assignment3.task1.Main" />
@@ -422,19 +390,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Assignment4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Assignment4" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +421,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
@@ -474,10 +441,10 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48901904" visible="true" weight="0.328594" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48901904" visible="true" weight="0.328594" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.328594" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.328594" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
@@ -852,16 +819,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/incremental/assignment2/taskA/VampireNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="43">
@@ -970,6 +927,16 @@
           <folding>
             <element signature="e#732#733#0" expanded="true" />
             <element signature="e#763#764#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

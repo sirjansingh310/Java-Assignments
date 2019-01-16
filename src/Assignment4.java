@@ -17,11 +17,14 @@ public class Assignment4 {
                 LocalDate anniversary  = signUpDate.withYear(currentDate.getYear());
                 if(currentDate.isBefore(signUpDate))
                     System.out.println("No range");
-                else if((currentDate.isAfter(anniversary.minusDays(30)) && currentDate.isBefore(anniversary.plusDays(30))) || currentDate.isEqual(anniversary)){
-                        System.out.println(anniversary.minusDays(30) + " "+ currentDate);
-                    }
-                else
-                    System.out.println(currentDate.isBefore(anniversary.plusDays(30))); // to-do fix this
+                else{
+                    LocalDate startDate = anniversary.minusDays(30);
+                    LocalDate endDate = anniversary.plusDays(30);
+                    if(currentDate.isAfter(startDate) && currentDate.isBefore(endDate))
+                        System.out.println(startDate.format(formatter) + " " + currentDate.format(formatter));
+                    else
+                        System.out.println(startDate.format(formatter) +" " + endDate.format(formatter));
+                }
             }
         } catch (IOException e) {
             e.printStackTrace();
