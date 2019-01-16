@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         try {
-            String inputFilePath = "/home/zadmin/Desktop/text.txt";
+            String inputFilePath = args[0];
             File inputFile = new File(inputFilePath);
             String outputFilePath = inputFile.getAbsolutePath().replace(inputFile.getName(), "char-count-" + inputFile.getName());
             Scanner sc = new Scanner(new FileInputStream(inputFile));
