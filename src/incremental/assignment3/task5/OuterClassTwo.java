@@ -9,9 +9,11 @@ package incremental.assignment3.task5;
     }
     // ERROR
     */
-    // the above was done as described in the question. This resulted in an error because InnerClassOne was non-static
-    // to make it work we have to make InnerClassOne as static inner class in OuterClassOne
-    // or we our OuterClassTwo can extend OuterClassOne. In this way InnerClassOne is in scope for InnerClassTwo
+    // the above was done as described in the question. This resulted in an error because InnerClassOne was out of scope.
+    // To fix this either we can make InnerClassOne a static class or our OuterClassTwo can extend OuterClassOne as described
+    // in the next section.
+
+
 
 //}
 
