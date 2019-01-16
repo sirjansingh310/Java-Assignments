@@ -10,6 +10,8 @@ public class Slist<T> {
          output += slistIterator.next().toString();
          output += "->";
      }
+     if(output.equals(""))
+         return "List is empty";
      return output;
 
   }

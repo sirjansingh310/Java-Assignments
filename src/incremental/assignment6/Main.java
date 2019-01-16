@@ -20,6 +20,7 @@ public class Main {
         System.out.println(slist1.toString());
         slistIterator1.remove("def");
         System.out.println(slist1.toString());
+        
     }
 
 }
