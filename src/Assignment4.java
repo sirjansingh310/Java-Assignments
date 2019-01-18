@@ -7,7 +7,7 @@ public class Assignment4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int testCases = scanner.nextInt();
-        scanner.nextLine(); // to consume the new line created by hitting enter. This is problem with nextInt() method.
+        scanner.nextLine(); // to consume the new line created by hitting enter. This is a problem with nextInt() method.
         for(int i=0 ; i<testCases ;i++) {
 
             String input[] = scanner.nextLine().split(" ");
